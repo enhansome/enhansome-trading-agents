@@ -1,0 +1,1759 @@
+{
+  "items": [
+    {
+      "description": "Agents are projects where an LLM is part of the actual research or trading decision. This includes analyst teams, single-agent traders, research copilots, live trading experiments, benchmarks, and tools that write or improve strategies. The TradingAgents forks are listed at the same level as the original project so the section stays easy to scan.\n",
+      "items": [],
+      "title": "Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TauricResearch/TradingAgents",
+          "description": "Multi-agent trading framework where analysts, bull/bear researchers, a trader, risk control, and a portfolio manager debate before making a decision; built with LangGraph.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T15:55:05Z",
+            "owner": "TauricResearch",
+            "repo": "TradingAgents",
+            "stars": 97895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hsliuping/TradingAgents-CN",
+          "description": "Chinese-localised TradingAgents fork tuned for A-shares; Tushare / AkShare data sources + Chinese-language reports + A-share regulatory context. (← fork of TauricResearch/TradingAgents.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T02:51:59Z",
+            "owner": "hsliuping",
+            "repo": "TradingAgents-CN",
+            "stars": 31101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HKUDS/Vibe-Trading",
+          "description": "Personal multi-agent finance workspace from HKUDS Lab; bundles Skills, MCP tools, and swarm presets across A-shares, HK, US, crypto, futures, and forex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:33:20Z",
+            "owner": "HKUDS",
+            "repo": "Vibe-Trading",
+            "stars": 30717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HKUDS/AI-Trader",
+          "description": "\"Agent-native trading platform\"; any AI agent (OpenClaw / nanobot / Claude Code / Codex / Cursor) registers via SKILL.md and trades live on AI4trade.ai; multi-asset + copy-trading + cross-platform sync.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-11T09:26:03Z",
+            "owner": "HKUDS",
+            "repo": "AI-Trader",
+            "stars": 21318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ValueCell-ai/valuecell",
+          "description": "Community finance workspace with research, strategy, and news agents; connects to Binance, OKX, and Hyperliquid; includes macOS and Windows desktop apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-09T08:30:21Z",
+            "owner": "ValueCell-ai",
+            "repo": "valuecell",
+            "stars": 10978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brokermr810/QuantDinger",
+          "description": "Open-source AI quant-trading platform; combines multi-agent research, backtesting, live trading, and multi-exchange routing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T15:37:12Z",
+            "owner": "OpenByteInc",
+            "repo": "QuantDinger",
+            "stars": 10591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI4Finance-Foundation/FinRobot",
+          "description": "AI4Finance Foundation's open-source finance AI agent platform; useful for academic-style stock research, market forecasting, and report generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-27T07:06:05Z",
+            "owner": "AI4Finance-Foundation",
+            "repo": "FinRobot",
+            "stars": 7771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The-Swarm-Corporation/AutoHedge",
+          "description": "\"Spin up an autonomous hedge fund in minutes\"; applies the Swarms framework to market analysis, risk, and execution; CLI / SDK first.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-11T05:44:09Z",
+            "owner": "The-Swarm-Corporation",
+            "repo": "AutoHedge",
+            "stars": 4161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "olaxbt/ai-market-maker",
+          "description": "Agentic crypto hedge-fund stack with specialist agents, Risk Guard, backtests, paper trading, and OpenClaw packaging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T12:07:10Z",
+            "owner": "olaxbt",
+            "repo": "ai-market-maker",
+            "stars": 2099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lumiwealth/lumibot",
+          "description": "Backtestable AI trading-agent/team runtime with research, debate, risk, and memory in one backtest/paper/live strategy loop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:46:58Z",
+            "owner": "Lumiwealth",
+            "repo": "lumibot",
+            "stars": 1918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oficcejo/aiagents-stock",
+          "description": "A-share multi-agent analyst team with dragon-and-tiger list tracking, sector-rotation alerts, and a miniqmt execution hook. (← inspired by TradingAgents.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T03:40:35Z",
+            "owner": "oficcejo",
+            "repo": "aiagents-stock",
+            "stars": 1834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ginlix-ai/LangAlpha",
+          "description": "\"Claude Code for finance\"; LangChain + LangGraph multi-agent investment workbench; integrates Agents · MCPs · Skills in one repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:13:56Z",
+            "owner": "ginlix-ai",
+            "repo": "LangAlpha",
+            "stars": 1627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ygwyg/MAHORAGA",
+          "description": "TypeScript crypto-trading agent focused on social sentiment analysis and adaptive learning; useful if you want a TypeScript implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-17T01:37:56Z",
+            "owner": "ygwyg",
+            "repo": "MAHORAGA",
+            "stars": 864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KylinMountain/TradingAgents-AShare",
+          "description": "A-share rewrite; 15 agents + visual UI + OpenClaw / Claude Code integration + one-click Docker deploy. (← fork of TauricResearch/TradingAgents.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T01:33:23Z",
+            "owner": "KylinMountain",
+            "repo": "TradingAgents-AShare",
+            "stars": 766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dragon1086/prism-insight",
+          "description": "Korean-market-focused multi-agent stock-analysis and trading system; built-in MCP integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:57:40Z",
+            "owner": "dragon1086",
+            "repo": "prism-insight",
+            "stars": 717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FinStep-AI/ContestTrade",
+          "description": "Multi-agent trading system where agents compete internally before one view is selected for the final decision.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-22T10:00:06Z",
+            "owner": "FinStep-AI",
+            "repo": "ContestTrade",
+            "stars": 676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "51bitquant/ai-hedge-fund-crypto",
+          "description": "Crypto-focused fork of virattt/ai-hedge-fund; multi-timeframe analysis + strategy ensemble + crypto market-data access.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-05T09:15:21Z",
+            "owner": "51bitquant",
+            "repo": "ai-hedge-fund-crypto",
+            "stars": 617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EthanAlgoX/LLM-TradeBot",
+          "description": "Multi-agent crypto-trading system; Binance real-time execution + adaptive strategy switching; combines ideas from TradingAgents and nof1.ai.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T09:10:53Z",
+            "owner": "EthanAlgoX",
+            "repo": "LLM-TradeBot",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tomortec/CryptoTradingAgents",
+          "description": "Multi-agent LLM crypto-trading framework; applies the TradingAgents idea to crypto trading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-22T10:20:24Z",
+            "owner": "Tomortec",
+            "repo": "CryptoTradingAgents",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YichengYang-Ethan/oracle3",
+          "description": "Multi-venue (Kalshi / Polymarket / Solana) prediction-market autonomous agent; Wang-Transform pricing + Kelly criterion + cross-venue arbitrage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-08T07:48:25Z",
+            "owner": "YichengYang-Ethan",
+            "repo": "oracle3",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "huygiatrng/AlpacaTradingAgent",
+          "description": "TradingAgents-style multi-agent framework connected to Alpaca for US-equity trading. (→ pairs with: alpacahq/alpaca-mcp-server.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T17:31:43Z",
+            "owner": "huygiatrng",
+            "repo": "AlpacaTradingAgent",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yaolinwang/AITD",
+          "description": "\"AI Trading Agent for Everyone\"; multi-agent project designed for retail users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-29T12:46:13Z",
+            "owner": "Yaolinwang",
+            "repo": "AITD",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flash131307/multi-agent-investment",
+          "description": "Multi-agent equity-research system that lets LLM agents gather evidence, then uses a separate math layer to produce BUY / NEUTRAL / SELL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-26T18:10:44Z",
+            "owner": "flash131307",
+            "repo": "multi-agent-investment",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "liangdabiao/autogen-financial-analysis",
+          "description": "Microsoft AutoGen-based multi-agent financial-analysis system; VaR / Monte Carlo / factor models / visualization integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-17T00:24:38Z",
+            "owner": "liangdabiao",
+            "repo": "autogen-financial-analysis",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ganador1/FenixAI_tradingBot",
+          "description": "LangGraph + Ollama + CrewAI autonomous trading agent; local-LLM first.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T17:55:36Z",
+            "owner": "Ganador1",
+            "repo": "FenixAI_tradingBot",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ryan-yuuu/crypto-trading-arena",
+          "description": "Open-source crypto-trading arena; Claude / Claude Code agents compete head-to-head on live crypto data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T06:42:08Z",
+            "owner": "ryan-yuuu",
+            "repo": "crypto-trading-arena",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FareedKhan-dev/multi-agent-trading-system",
+          "description": "\"Deep Thinking Trading System\" tutorial implementation; beginner-friendly multi-agent example design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-04T10:49:11Z",
+            "owner": "FareedKhan-dev",
+            "repo": "multi-agent-trading-system",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tanglumy/Finance-Bro",
+          "description": "Persona-styled finance \"bro\" trading-and-investment agent; uses the persona as the main interaction style.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-08T01:27:52Z",
+            "owner": "Tanglumy",
+            "repo": "Finance-Bro",
+            "stars": 111
+          }
+        }
+      ],
+      "title": "Multi-agent trading systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "virattt/ai-hedge-fund",
+          "description": "Widely forked LLM-driven equity-trading repo; analyst personas (Buffett / Munger / Cathie Wood) propose, the portfolio manager decides.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:21:58Z",
+            "owner": "virattt",
+            "repo": "ai-hedge-fund",
+            "stars": 62829
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoFxAiOS/nofx",
+          "description": "Self-hosted LLM trading terminal; models decide and explain while a Go runtime enforces hard risk limits across nine exchanges.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-30T00:56:54Z",
+            "owner": "NoFxAiOS",
+            "repo": "nofx",
+            "stars": 12678
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TraderAlice/OpenAlice",
+          "description": "\"Your one-person Wall Street\"; single agent covering research → entry → hold → exit; Claude Agent SDK + Trading-as-Git approval workflow + cross-asset UTA account design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:21:44Z",
+            "owner": "TraderAlice",
+            "repo": "OpenAlice",
+            "stars": 6494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chrisworsey55/atlas-gic",
+          "description": "General Intelligence Capital's self-improving trading agent; focuses on continuous self-research rather than agent debate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-27T19:40:53Z",
+            "owner": "chrisworsey55",
+            "repo": "atlas-gic",
+            "stars": 2080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alsk1992/CloddsBot",
+          "description": "Open-source AI trader across 1000+ markets, including Polymarket, Kalshi, Binance, Hyperliquid, Solana, and several EVM chains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-26T19:37:47Z",
+            "owner": "alsk1992",
+            "repo": "CloddsBot",
+            "stars": 676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gajesh2007/ai-trading-agent",
+          "description": "AI trading agent on Hyperliquid; single-LLM-driven execution; shows direct Hyperliquid integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-27T06:44:44Z",
+            "owner": "Gajesh2007",
+            "repo": "ai-trading-agent",
+            "stars": 540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "danilobatson/ai-trading-agent-gemini",
+          "description": "LunarCrush social-sentiment + Google Gemini crypto-trading agent; built with Next.js 15, Inngest, and Supabase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-05T18:09:39Z",
+            "owner": "danilobatson",
+            "repo": "ai-trading-agent-gemini",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kweinmeister/agentic-trading",
+          "description": "Trading-workflow example built on Google ADK + A2A interop; an alternative implementation outside LangGraph.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T03:26:09Z",
+            "owner": "kweinmeister",
+            "repo": "agentic-trading",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hkirat/ai-trading-agent",
+          "description": "\"Trade using LLMs\"; minimal TypeScript demo from Harkirat Singh; common on-ramp for TS learners.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-02T11:47:08Z",
+            "owner": "hkirat",
+            "repo": "ai-trading-agent",
+            "stars": 176
+          }
+        }
+      ],
+      "title": "Single-agent end-to-end traders"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ZhuLinsen/daily_stock_analysis",
+          "description": "Daily LLM-driven stock-screening dashboard; multi-channel push (WeChat / Feishu / Telegram / Discord / Slack / email); 11 built-in strategies + agent stock-Q&A; deploy-by-GitHub-Actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T13:18:04Z",
+            "owner": "ZhuLinsen",
+            "repo": "daily_stock_analysis",
+            "stars": 62608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TNT-Likely/PanWatch",
+          "description": "PanWatch / \"盯盘侠\"; AI-driven stock-monitoring assistant; multi-account positions + agent analysis + PWA mobile.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:44:23Z",
+            "owner": "TNT-Likely",
+            "repo": "PanWatch",
+            "stars": 775
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AmadeusGB/alpha-arena",
+          "description": "Live AI-agent competition and research platform; uses real-market conditions to improve agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-20T23:48:59Z",
+            "owner": "AmadeusGB",
+            "repo": "alpha-arena",
+            "stars": 626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YoungCan-Wang/WyckoffTradingAgent",
+          "description": "AI stock-analysis assistant for A/HK/US equities; uses Wyckoff price-volume logic and ships CLI, web, and MCP tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:52:34Z",
+            "owner": "YoungCan-Wang",
+            "repo": "WyckoffTradingAgent",
+            "stars": 565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HKUSTDial/DeepEar",
+          "description": "DeepEar / \"顺风耳\"; HKUSTDial's open-source deep-research and signal-tracking framework; joint multimodal news + price tracking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-16T12:25:36Z",
+            "owner": "HKUSTDial",
+            "repo": "DeepEar",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kamathhrishi/finance-agent",
+          "description": "Earnings-call / SEC-filing / news Q&A agent; clean RAG-over-disclosures implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-19T07:42:41Z",
+            "owner": "kamathhrishi",
+            "repo": "finance-agent",
+            "stars": 139
+          }
+        }
+      ],
+      "title": "Research / equity-research copilots"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LuckyOne7777/LLM-Trading-Lab",
+          "description": "Real-money six-month experiment; ChatGPT manages a real US-equity micro-cap portfolio under strict pre-defined rules; ships with a 40-page evaluation paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-24T16:34:59Z",
+            "owner": "LuckyOne7777",
+            "repo": "LLM-Trading-Lab",
+            "stars": 7499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wquguru/nof0",
+          "description": "nof1.ai Alpha Arena reimplementation with Go backend, Next.js UI, Hyperliquid, LLM executors, backtests, leaderboards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-07T08:58:49Z",
+            "owner": "wquguru",
+            "repo": "nof0",
+            "stars": 2752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "195440/nof1.ai",
+          "description": "Open-source autonomous AI trading agent from the nof1 family; TypeScript port.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-15T01:49:18Z",
+            "owner": "195440",
+            "repo": "nof1.ai",
+            "stars": 684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oficcejo/alpha-arena-okx",
+          "description": "OKX re-implementation of nof1.ai's Alpha Arena; DeepSeek / Qwen3-Max as decision-makers; useful when comparing Chinese-language nof1 projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T03:16:46Z",
+            "owner": "oficcejo",
+            "repo": "alpha-arena-okx",
+            "stars": 334
+          }
+        }
+      ],
+      "title": "Real-money / competition experiments"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ryanfrigo/kalshi-ai-trading-bot",
+          "description": "Grok-4-driven Kalshi prediction-market multi-agent trading system; portfolio optimization + 5-gate risk engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T18:56:42Z",
+            "owner": "ryanfrigo",
+            "repo": "kalshi-ai-trading-bot",
+            "stars": 570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OctagonAI/kalshi-trading-bot-cli",
+          "description": "AI-native CLI for Kalshi and Polymarket; researches an event, estimates probability, then compares it with the live order book.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-25T21:39:56Z",
+            "owner": "OctagonAI",
+            "repo": "kalshi-trading-bot-cli",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jvnhaoWen/PolyAgent",
+          "description": "Polymarket-focused multi-skill trading agent; focused single-venue Polymarket LLM agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-24T12:01:15Z",
+            "owner": "jvnhaoWen",
+            "repo": "PolyAgent",
+            "stars": 101
+          }
+        }
+      ],
+      "title": "Prediction-market specialists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open-Finance-Lab/AgenticTrading",
+          "description": "Open-Finance-Lab's academic framework + dataset for agent-trading research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:04:32Z",
+            "owner": "Open-Finance-Lab",
+            "repo": "AgenticTrading",
+            "stars": 387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HKUSTDial/DeepFund",
+          "description": "Multi-agent fund-investment benchmark; LLM analysts evaluate stocks in a unified trading arena with leaderboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T03:43:42Z",
+            "owner": "HKUSTDial",
+            "repo": "DeepFund",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ulab-uiuc/live-trade-bench",
+          "description": "Live-market evaluation for trading agents; UIUC ULab's live-eval benchmark; distinct from backtest-only benchmarks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-17T18:32:07Z",
+            "owner": "ulab-uiuc",
+            "repo": "live-trade-bench",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vals-ai/finance-agent",
+          "description": "Finance-agent benchmark / task suite from vals-ai.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T09:52:56Z",
+            "owner": "vals-ai",
+            "repo": "finance-agent",
+            "stars": 153
+          }
+        }
+      ],
+      "title": "Benchmarks & evaluations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HammerGPT/Hyper-Alpha-Arena",
+          "description": "LLM factor-research and perpetuals platform; mines and validates 86 factors with IC / ICIR, decay, backtests, and attribution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-13T15:37:52Z",
+            "owner": "HammerGPT",
+            "repo": "Hyper-Alpha-Arena",
+            "stars": 1126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Miasyster/QuantGPT",
+          "description": "Agent-driven A-share factor research engine; 8 MCP tools span hypothesis → backtest → score → WQ BRAIN submission. (Distinct from rnikitin/QuantGPT.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-20T10:14:08Z",
+            "owner": "Miasyster",
+            "repo": "QuantGPT",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "paperswithbacktest/pwb-alphaevolve",
+          "description": "DeepMind AlphaEvolve-style agent that uses an LLM to write and improve trading strategies for backtesting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-04T08:28:16Z",
+            "owner": "paperswithbacktest",
+            "repo": "pwb-alphaevolve",
+            "stars": 127
+          }
+        }
+      ],
+      "title": "Strategy coding / self-improving agents"
+    },
+    {
+      "description": "MCPs are servers that let an agent call external tools through the Model Context Protocol. In this list, they mostly cover market data, broker or exchange actions, research tools, and backtesting services.\n",
+      "items": [],
+      "title": "MCPs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "financial-datasets/mcp-server",
+          "description": "Financial Datasets' first-party MCP; US-equity + crypto fundamentals (3 statements + ratios) + prices + news.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-05T19:50:38Z",
+            "owner": "financial-datasets",
+            "repo": "mcp-server",
+            "stars": 2277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "6551Team/opennews-mcp",
+          "description": "84+ news-source aggregation (Bloomberg / Reuters / FT / CoinDesk and more) + AI impact-scoring / trading-signal + WebSocket streaming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T10:29:52Z",
+            "owner": "6551Team",
+            "repo": "opennews-mcp",
+            "stars": 2088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chengzuopeng/stock-sdk",
+          "description": "Zero-dependency TypeScript stock-data SDK with built-in MCP for A/H/US equities and funds via browser, Node.js, CLI, Claude Code, or Codex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T10:58:21Z",
+            "owner": "chengzuopeng",
+            "repo": "stock-sdk",
+            "stars": 1832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guangxiangdebizi/FinanceMCP",
+          "description": "Tushare + Binance MCP spanning A-shares / HK / US / funds / bonds / macro / stablecoins / crypto / financial news.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T04:59:30Z",
+            "owner": "guangxiangdebizi",
+            "repo": "FinanceMCP",
+            "stars": 645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "saidsurucu/borsa-mcp",
+          "description": "Turkish BIST + US-equity + fund data MCP serving regional markets outside China and the US.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:00:27Z",
+            "owner": "saidsurucu",
+            "repo": "borsa-mcp",
+            "stars": 638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elsejj/mcp-cn-a-stock",
+          "description": "A-share-only data MCP; single-market deep coverage instead of multi-source aggregation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-15T11:44:43Z",
+            "owner": "elsejj",
+            "repo": "mcp-cn-a-stock",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlockRunAI/blockrun-mcp",
+          "description": "Real-time data MCP with pay-per-call x402 payments; covers search, research, quotes, crypto, X, and Twitter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:56:34Z",
+            "owner": "BlockRunAI",
+            "repo": "blockrun-mcp",
+            "stars": 426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aahl/mcp-aktools",
+          "description": "Stock and crypto data MCP built on akshare / aktools; broad market-data coverage through the AKShare ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-26T03:14:59Z",
+            "owner": "aahl",
+            "repo": "mcp-aktools",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "massive-com/mcp_massive",
+          "description": "Massive (formerly Polygon.io) first-party MCP; multi-asset market-data coverage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-11T16:25:26Z",
+            "owner": "massive-com",
+            "repo": "mcp_massive",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stefanoamorelli/sec-edgar-mcp",
+          "description": "SEC EDGAR MCP; 10-K / 10-Q / 8-K / insider trades / filings reader; common filings entry across awesome-lists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:16:12Z",
+            "owner": "stefanoamorelli",
+            "repo": "sec-edgar-mcp",
+            "stars": 347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alex2Yang97/yahoo-finance-mcp",
+          "description": "Full-feature Yahoo Finance MCP; historical prices + fundamentals + option chains + news; Yahoo wrapper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-23T22:59:31Z",
+            "owner": "Alex2Yang97",
+            "repo": "yahoo-finance-mcp",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zwldarren/akshare-one-mcp",
+          "description": "A-share data MCP backed by the AKShare-One normalizer; an alternative implementation within the AKShare ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-14T22:13:52Z",
+            "owner": "zwldarren",
+            "repo": "akshare-one-mcp",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "daniel3303/Equibles",
+          "description": "Self-hosted finance data hub; syncs public SEC/FRED/Yahoo/FINRA/CFTC/CBOE data to PostgreSQL and serves it via MCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T03:33:00Z",
+            "owner": "daniel3303",
+            "repo": "Equibles",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "narumiruna/yfinance-mcp",
+          "description": "Minimal yfinance MCP; a lightweight Yahoo Finance data option.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T03:45:45Z",
+            "owner": "narumiruna",
+            "repo": "yfinance-mcp",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OctagonAI/octagon-mcp-server",
+          "description": "MCP for filings, earnings calls, financials, stock data, private-market deals, and web research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-09T19:52:51Z",
+            "owner": "OctagonAI",
+            "repo": "octagon-mcp-server",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imbenrabi/Financial-Modeling-Prep-MCP-Server",
+          "description": "FMP MCP with 250+ tools for fundamentals, market intelligence, and ETFs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-02T17:24:51Z",
+            "owner": "imbenrabi",
+            "repo": "Financial-Modeling-Prep-MCP-Server",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLMQuant/data-mcp",
+          "description": "LLMQuant Data's official MCP server, positioned as the \"knowledge harness for AI-native finance\"; covers semantic search over a 50k+ quant wiki and 1.2k+ research papers, US equity OHLCV + dividends/splits, crypto klines & snapshots (Binance Spot), 50+ curated macro indicators (FRED, etc.), SEC 10-K/10-Q full-text browse & read, and three-way 13F institutional holdings queries (manager → holdings / ticker → holders / top managers).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T11:34:31Z",
+            "owner": "LLMQuant",
+            "repo": "data-mcp",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Market data / data providers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koreainvestment/open-trading-api",
+          "description": "Korea Investment & Securities official SDK; includes a Trading MCP, strategy builder, and backtester.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T04:24:26Z",
+            "owner": "koreainvestment",
+            "repo": "open-trading-api",
+            "stars": 1559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alpacahq/alpaca-mcp-server",
+          "description": "Alpaca's official MCP for market data plus paper or live trading in equities, ETFs, options, and crypto. (← used by: tradermonty/claude-trading-skills, staskh/trading_skills, huygiatrng/AlpacaTradingAgent.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T15:31:43Z",
+            "owner": "alpacahq",
+            "repo": "alpaca-mcp-server",
+            "stars": 915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ariadng/metatrader-mcp-server",
+          "description": "Representative MT5 MCP; lets LLMs trade through any MetaTrader 5 broker; MCP connector for a major retail-forex platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-28T18:39:29Z",
+            "owner": "ariadng",
+            "repo": "metatrader-mcp-server",
+            "stars": 710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "krakenfx/kraken-cli",
+          "description": "Kraken's official AI-native CLI with an embedded MCP; covers crypto, xStocks, forex, derivatives, paper trading, and bundled SKILL.md packs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T13:43:41Z",
+            "owner": "krakenfx",
+            "repo": "kraken-cli",
+            "stars": 684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "okx/agent-trade-kit",
+          "description": "OKX official MCP for spot, perpetuals, futures, options, and grid bots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-29T03:51:58Z",
+            "owner": "okx",
+            "repo": "agent-trade-kit",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "code-rabi/interactive-brokers-mcp",
+          "description": "Alternative IBKR MCP in TS / JS; complements rcontesti's Python build.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-21T06:36:57Z",
+            "owner": "code-rabi",
+            "repo": "interactive-brokers-mcp",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qoyyuum/mcp-metatrader5-server",
+          "description": "Alternative MT5 MCP for quotes, trading, and history; uses MCP resources as well as tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T00:07:31Z",
+            "owner": "Qoyyuum",
+            "repo": "mcp-metatrader5-server",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rcontesti/IB_MCP",
+          "description": "Representative IBKR MCP; exposes Interactive Brokers TWS / Gateway as MCP tools; aimed at professional-broker workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-23T19:49:51Z",
+            "owner": "rcontesti",
+            "repo": "IB_MCP",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "taylorwilsdon/quantconnect-mcp",
+          "description": "Independent QuantConnect MCP focused on strategy research and workflow automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-24T17:16:26Z",
+            "owner": "taylorwilsdon",
+            "repo": "quantconnect-mcp",
+            "stars": 116
+          }
+        }
+      ],
+      "title": "Brokerage / exchange trading"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mnemox-ai/tradememory-protocol",
+          "description": "Memory MCP for AI trading agents; records decision rationale, outcomes, and review evidence with 17 MCP tools and 35+ REST endpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:55:53Z",
+            "owner": "mnemox-ai",
+            "repo": "tradememory-protocol",
+            "stars": 1409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wshobson/maverick-mcp",
+          "description": "Personal stock-analysis MCP for fundamentals, technical indicators, and screening.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T05:02:09Z",
+            "owner": "wshobson",
+            "repo": "maverick-mcp",
+            "stars": 644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuantMLResearch/AI-Kline",
+          "description": "Stock-analysis tool combining classic technical analysis, AI prediction, and MCP access.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-06T02:37:26Z",
+            "owner": "QuantMLResearch",
+            "repo": "AI-Kline",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guangxiangdebizi/TradingAgents-MCPmode",
+          "description": "TradingAgents refactored as MCP tools for multi-agent equity research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-22T07:04:36Z",
+            "owner": "guangxiangdebizi",
+            "repo": "TradingAgents-MCPmode",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wbsu2003/stock-scanner-mcp",
+          "description": "Stock scanner MCP for prices, scoring, technical reports, and AI summaries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-03T03:07:54Z",
+            "owner": "wbsu2003",
+            "repo": "stock-scanner-mcp",
+            "stars": 243
+          }
+        }
+      ],
+      "title": "Research tools / analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "caiovicentino/polymarket-mcp-server",
+          "description": "45-tool Polymarket MCP; real-time monitoring and explicit order-safety guards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T22:41:43Z",
+            "owner": "caiovicentino",
+            "repo": "polymarket-mcp-server",
+            "stars": 634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agent-next/polymarket-paper-trader",
+          "description": "Polymarket paper-trading simulator; MCP server + real-time order book + strategy backtesting; built for AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-02T05:24:25Z",
+            "owner": "agent-next",
+            "repo": "polymarket-paper-trader",
+            "stars": 372
+          }
+        }
+      ],
+      "title": "Prediction markets"
+    },
+    {
+      "description": "Skills are reusable instructions and workflows for Claude Code or other agent systems. They help an agent repeat a trading task reliably, such as researching a stock, checking options, backtesting a strategy, or managing a portfolio. When a Skill is designed to work with a listed MCP, the entry shows .\n",
+      "items": [],
+      "title": "Skills"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xbtlin/ai-berkshire",
+          "description": "Value-investing research framework for Claude Code / Codex; combines four investor playbooks with multi-agent analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:44:55Z",
+            "owner": "xbtlin",
+            "repo": "ai-berkshire",
+            "stars": 15478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "himself65/finance-skills",
+          "description": "Skill pack for multiple asset classes, covering valuation, earnings review, option payoffs, ETF checks, liquidity, social research, and geopolitical-risk analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T19:52:51Z",
+            "owner": "himself65",
+            "repo": "finance-skills",
+            "stars": 3153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RKiding/Awesome-finance-skills",
+          "description": "Alphaear Skill suite for news, stocks, sentiment, prediction, signal tracking, logic visualization, reporting, and search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-29T05:03:47Z",
+            "owner": "RKiding",
+            "repo": "Awesome-finance-skills",
+            "stars": 2776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tradermonty/claude-trading-skills",
+          "description": "Large Skill pack for US-equity investors, covering market analysis, breadth, regimes, screening methods, options, Alpaca portfolio management, and research workflows. (→ pairs with: alpacahq/alpaca-mcp-server.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:17:04Z",
+            "owner": "tradermonty",
+            "repo": "claude-trading-skills",
+            "stars": 2624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quant-sentiment-ai/claude-equity-research",
+          "description": "Claude Code research Skill for buy / sell / hold reports using fundamentals, technicals, option flow, insider activity, and sector context.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T14:13:39Z",
+            "owner": "quant-sentiment-ai",
+            "repo": "claude-equity-research",
+            "stars": 688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monarchjuno/tradingcodex",
+          "description": "Codex-native investment workflow team for research, portfolio work, and trading-oriented analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T23:33:00Z",
+            "owner": "monarchjuno",
+            "repo": "tradingcodex",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JoelLewis/finance_skills",
+          "description": "Claude Code financial-services Skill pack; 84 skills across investment management, compliance, advisory workflows, trading operations, and portfolio reporting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T14:50:29Z",
+            "owner": "JoelLewis",
+            "repo": "finance_skills",
+            "stars": 169
+          }
+        }
+      ],
+      "title": "Equity research"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GMGNAI/gmgn-skills",
+          "description": "GMGN Agent Skills for querying tokens, wallets, and market data, and executing on-chain trades across Solana, BSC, and Base.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-30T16:50:14Z",
+            "owner": "GMGNAI",
+            "repo": "gmgn-skills",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "okx/onchainos-skills",
+          "description": "OKX official Skills for OnchainOS, covering wallets, token discovery, quotes, DEX swaps, and transaction broadcasting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T10:38:35Z",
+            "owner": "okx",
+            "repo": "onchainos-skills",
+            "stars": 322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polymarket/agent-skills",
+          "description": "First-party Polymarket Agent Skill for auth, orders, market data, WebSockets, bridging, and gasless flows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-19T15:59:36Z",
+            "owner": "Polymarket",
+            "repo": "agent-skills",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "okx/agent-skills",
+          "description": "OKX bilingual Skills repo with contribution, review, and security guidance; companion to onchainos-skills.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-22T02:35:21Z",
+            "owner": "okx",
+            "repo": "agent-skills",
+            "stars": 163
+          }
+        }
+      ],
+      "title": "Crypto / DeFi / on-chain"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MobiusQuant/OpenMobius-skill",
+          "description": "ICT / SMC trading-knowledge Skill for Claude Code, Codex, OpenClaw, and Hermes; includes curated knowledge cards, real-time market data, indicators, and chart generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T05:44:17Z",
+            "owner": "MobiusQuant",
+            "repo": "OpenMobius-skill",
+            "stars": 599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Superior-Trade/superior-skills",
+          "description": "Agent Skills and tool schemas for building, backtesting, and deploying Hyperliquid trading strategies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T20:09:41Z",
+            "owner": "Superior-Trade",
+            "repo": "superior-skills",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marketcalls/vectorbt-backtesting-skills",
+          "description": "Skill for vectorbt backtesting with setup, backtest, optimization, quick stats, strategy comparison, and reusable strategy templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-12T15:35:51Z",
+            "owner": "marketcalls",
+            "repo": "vectorbt-backtesting-skills",
+            "stars": 188
+          }
+        }
+      ],
+      "title": "Strategy coding & backtesting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "koreal6803/finlab-ai",
+          "description": "Taiwan-equity CLI Skill for strategy discovery, backtesting, and feature engineering with FinLab data and ready-made strategy examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-19T18:40:04Z",
+            "owner": "koreal6803",
+            "repo": "finlab-ai",
+            "stars": 411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "staskh/trading_skills",
+          "description": "Skill pack for option traders, covering market data, analysis, scanners, portfolio work, reports, IBKR integration, and MCP tools. (→ pairs with: alpacahq/alpaca-mcp-server, rcontesti/IB_MCP.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:25:51Z",
+            "owner": "staskh",
+            "repo": "trading_skills",
+            "stars": 330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "second-state/fintool",
+          "description": "Rust CLI suite for agentic trading and market intelligence; exchange-specific tools for Hyperliquid / Binance / Coinbase / OKX / Polymarket plus quotes, news, SEC filings, and backtests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-19T22:06:38Z",
+            "owner": "second-state",
+            "repo": "fintool",
+            "stars": 313
+          }
+        }
+      ],
+      "title": "Brokerage execution & portfolio"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FinRobot: Open-Source AI Agent Platform for Financial Analysis",
+          "description": "AI4Finance Foundation, arXiv 2405.14767 (2024). Early academic finance-AI agent platform; multimodal analyst agents tied to the FinGPT model line. paper · code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-27T07:06:05Z",
+            "owner": "AI4Finance-Foundation",
+            "repo": "FinRobot",
+            "stars": 7771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM-Trading-Lab: Six-Month Real-Money ChatGPT Micro-Cap Experiment",
+          "description": "Lucky One, 2025; ships with a 40-page evaluation paper. Forward-only audit of ChatGPT managing a real US-equity micro-cap portfolio for six months under strict pre-defined rules. paper / repo · code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-24T16:34:59Z",
+            "owner": "LuckyOne7777",
+            "repo": "LLM-Trading-Lab",
+            "stars": 7499
+          }
+        }
+      ],
+      "title": "Papers"
+    },
+    {
+      "description": "We welcome community contributions: new entries, removal of dead links, and discussion on sub-category boundaries. Start with CONTRIBUTING.md (or CONTRIBUTING.zh-CN.md in Chinese); the guide puts the AI-native review path, quality bar, submission format, check, and bilingual-PR rule in one place. New entries are smoothest via the Issue: add entry template; removals via the Issue: remove entry template.\n",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "punkpeye/awesome-mcp-servers",
+          "description": "Broad MCP server directory; use this list when you only want trading, research, data, and execution tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T03:09:55Z",
+            "owner": "punkpeye",
+            "repo": "awesome-mcp-servers",
+            "stars": 92180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wilsonfreitas/awesome-quant",
+          "description": "Classical quant-library list; useful, but not the focus here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T01:30:22Z",
+            "owner": "wilsonfreitas",
+            "repo": "awesome-quant",
+            "stars": 28726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "georgezouq/awesome-ai-in-finance",
+          "description": "Traditional AI-in-finance list for deep learning, reinforcement learning, and time-series work.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T09:34:24Z",
+            "owner": "georgezouq",
+            "repo": "awesome-ai-in-finance",
+            "stars": 6390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wangzhe3224/awesome-systematic-trading",
+          "description": "Systematic-trading list for the broader non-agent trading tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-09T10:38:42Z",
+            "owner": "wangzhe3224",
+            "repo": "awesome-systematic-trading",
+            "stars": 4868
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers",
+          "description": "Curated LLM quantitative-trading paper list; complements this repo's application-layer focus with broader research coverage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-24T19:59:06Z",
+            "owner": "Tom-roujiang",
+            "repo": "Awesome-LLM-Quantitative-Trading-Papers",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataArcTech/Awesome-FinLLMs",
+          "description": "Comprehensive finance-LLM paper / model / dataset list (complementary to this list — they cover base models and papers, we cover the application-layer agents · MCPs · Skills).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-23T06:27:03Z",
+            "owner": "DataArcTech",
+            "repo": "Awesome-FinLLMs",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Related awesome lists"
+    },
+    {
+      "description": "The maintainer team reviews new entries and category changes.",
+      "items": [],
+      "title": "Maintained by"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:23:27.747Z",
+    "original_repository": "LLMQuant/awesome-trading-agents",
+    "original_repository_sha": "a5bcbc6a192386e7c625976082715dabed9bfb26",
+    "enhanced_repository": "enhansome/enhansome-trading-agents",
+    "enhanced_repository_description": null,
+    "title": "Awesome trading agents with stars"
+  }
+}
