@@ -21,7 +21,7 @@
                 "open_issues": 90,
                 "owner": "TauricResearch",
                 "repo": "TradingAgents",
-                "stars": 109931,
+                "stars": 109936,
                 "topics": [
                   "agent",
                   "finance",
@@ -45,10 +45,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-05T17:38:31Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "HKUDS",
                 "repo": "Vibe-Trading",
-                "stars": 34841,
+                "stars": 34843,
                 "topics": [
                   "ai-agent",
                   "algorithmic-trading",
@@ -197,7 +197,7 @@
                 "open_issues": 77,
                 "owner": "AI4Finance-Foundation",
                 "repo": "FinRobot",
-                "stars": 8144,
+                "stars": 8145,
                 "topics": [
                   "aiagent",
                   "chatgpt",
@@ -430,8 +430,8 @@
                 "id": 1038434342,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-06T10:46:02Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-06T11:08:56Z",
+                "open_issues": 5,
                 "owner": "dragon1086",
                 "repo": "prism-insight",
                 "stars": 768,
@@ -1119,7 +1119,7 @@
                 "open_issues": 27,
                 "owner": "ZhuLinsen",
                 "repo": "daily_stock_analysis",
-                "stars": 65949,
+                "stars": 65952,
                 "topics": [
                   "a-stock",
                   "ai-agent",
@@ -1186,8 +1186,8 @@
                 "id": 1132473569,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-06T03:11:27Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-06T11:02:44Z",
+                "open_issues": 16,
                 "owner": "YoungCan-Wang",
                 "repo": "WyckoffTradingAgent",
                 "stars": 739,
@@ -2804,7 +2804,7 @@
                 "open_issues": 32,
                 "owner": "xbtlin",
                 "repo": "ai-berkshire",
-                "stars": 16628,
+                "stars": 16629,
                 "topics": [
                   "ai",
                   "ai-agent",
@@ -3092,7 +3092,7 @@
                 "open_issues": 8,
                 "owner": "okx",
                 "repo": "agent-skills",
-                "stars": 184,
+                "stars": 185,
                 "topics": [
                   "ai-agent",
                   "algorithmic-trading",
@@ -3310,7 +3310,7 @@
                 "open_issues": 77,
                 "owner": "AI4Finance-Foundation",
                 "repo": "FinRobot",
-                "stars": 8144,
+                "stars": 8145,
                 "topics": [
                   "aiagent",
                   "chatgpt",
@@ -3549,7 +3549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:49:26.959Z",
+    "last_updated": "2026-10-06T11:14:17.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution.",
