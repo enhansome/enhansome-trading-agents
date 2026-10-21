@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T21:38:46Z",
-                "open_issues": 105,
+                "open_issues": 106,
                 "owner": "TauricResearch",
                 "repo": "TradingAgents",
-                "stars": 112208,
+                "stars": 112438,
                 "topics": [
                   "agent",
                   "finance",
@@ -44,11 +44,11 @@
                 "id": 1198306812,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-19T10:43:11Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-21T07:48:59Z",
+                "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "Vibe-Trading",
-                "stars": 35989,
+                "stars": 36101,
                 "topics": [
                   "ai-agent",
                   "algorithmic-trading",
@@ -77,10 +77,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-22T12:11:05Z",
-                "open_issues": 296,
+                "open_issues": 295,
                 "owner": "hsliuping",
                 "repo": "TradingAgents-CN",
-                "stars": 32362,
+                "stars": 32373,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:36:12.802Z"
@@ -101,7 +101,7 @@
                 "open_issues": 70,
                 "owner": "HKUDS",
                 "repo": "AI-Trader",
-                "stars": 22874,
+                "stars": 22894,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:36:12.802Z"
@@ -122,7 +122,7 @@
                 "open_issues": 31,
                 "owner": "OpenByteInc",
                 "repo": "QuantDinger",
-                "stars": 12948,
+                "stars": 12976,
                 "topics": [
                   "agent",
                   "alpaca",
@@ -163,7 +163,7 @@
                 "open_issues": 67,
                 "owner": "ValueCell-ai",
                 "repo": "valuecell",
-                "stars": 11028,
+                "stars": 11026,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -197,7 +197,7 @@
                 "open_issues": 77,
                 "owner": "AI4Finance-Foundation",
                 "repo": "FinRobot",
-                "stars": 8253,
+                "stars": 8258,
                 "topics": [
                   "aiagent",
                   "chatgpt",
@@ -227,7 +227,7 @@
                 "open_issues": 26,
                 "owner": "The-Swarm-Corporation",
                 "repo": "AutoHedge",
-                "stars": 6392,
+                "stars": 6420,
                 "topics": [
                   "ai",
                   "blackrock",
@@ -256,11 +256,11 @@
                 "id": 294371636,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-20T05:21:03Z",
+                "last_commit": "2026-10-21T05:02:36Z",
                 "open_issues": 102,
                 "owner": "Lumiwealth",
                 "repo": "lumibot",
-                "stars": 2139,
+                "stars": 2142,
                 "topics": [
                   "ai-agents",
                   "algorithmic-trading",
@@ -299,7 +299,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-08-20T14:00:25Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "olaxbt",
                 "repo": "ai-market-maker",
                 "stars": 2115,
@@ -332,7 +332,7 @@
                 "open_issues": 6,
                 "owner": "oficcejo",
                 "repo": "aiagents-stock",
-                "stars": 2023,
+                "stars": 2022,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:36:12.802Z"
@@ -349,11 +349,11 @@
                 "id": 1136616428,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T02:09:06Z",
+                "last_commit": "2026-10-21T03:57:48Z",
                 "open_issues": 32,
                 "owner": "ginlix-ai",
                 "repo": "LangAlpha",
-                "stars": 1828,
+                "stars": 1841,
                 "topics": [
                   "agent",
                   "investment",
@@ -379,11 +379,11 @@
                 "id": 1170370148,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-18T04:50:32Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-21T09:05:36Z",
+                "open_issues": 27,
                 "owner": "KylinMountain",
                 "repo": "TradingAgents-AShare",
-                "stars": 872,
+                "stars": 875,
                 "topics": [
                   "agents",
                   "ai",
@@ -430,11 +430,11 @@
                 "id": 1038434342,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-20T05:58:13Z",
+                "last_commit": "2026-10-21T07:49:51Z",
                 "open_issues": 5,
                 "owner": "dragon1086",
                 "repo": "prism-insight",
-                "stars": 781,
+                "stars": 783,
                 "topics": [
                   "ai",
                   "llm",
@@ -521,7 +521,7 @@
                 "open_issues": 14,
                 "owner": "YichengYang-Ethan",
                 "repo": "oracle3-prediction-market-agent",
-                "stars": 483,
+                "stars": 488,
                 "topics": [
                   "agentic-ai",
                   "ai-agents",
@@ -594,7 +594,7 @@
                 "open_issues": 1,
                 "owner": "Tomortec",
                 "repo": "CryptoTradingAgents",
-                "stars": 283,
+                "stars": 284,
                 "topics": [
                   "agents",
                   "ai",
@@ -866,10 +866,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-19T17:48:09Z",
-                "open_issues": 179,
+                "open_issues": 182,
                 "owner": "virattt",
                 "repo": "ai-hedge-fund",
-                "stars": 64107,
+                "stars": 64120,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:36:12.802Z"
@@ -887,10 +887,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-20T03:34:24Z",
-                "open_issues": 513,
+                "open_issues": 511,
                 "owner": "NoFxAiOS",
                 "repo": "nofx",
-                "stars": 13113,
+                "stars": 13117,
                 "topics": [
                   "agentictrading",
                   "ai",
@@ -929,7 +929,7 @@
                 "open_issues": 124,
                 "owner": "TraderAlice",
                 "repo": "OpenAlice",
-                "stars": 7329,
+                "stars": 7350,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:36:12.802Z"
@@ -950,7 +950,7 @@
                 "open_issues": 38,
                 "owner": "alsk1992",
                 "repo": "CloddsBot",
-                "stars": 2987,
+                "stars": 2991,
                 "topics": [
                   "agi",
                   "ai",
@@ -1042,7 +1042,7 @@
                 "open_issues": 0,
                 "owner": "danilobatson",
                 "repo": "ai-trading-agent-gemini",
-                "stars": 463,
+                "stars": 464,
                 "topics": [
                   "ai",
                   "cryptocurrency",
@@ -1116,10 +1116,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-17T11:54:29Z",
-                "open_issues": 39,
+                "open_issues": 41,
                 "owner": "ZhuLinsen",
                 "repo": "daily_stock_analysis",
-                "stars": 66774,
+                "stars": 66811,
                 "topics": [
                   "a-stock",
                   "ai-agent",
@@ -1144,11 +1144,11 @@
                 "id": 1140582982,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-19T10:11:31Z",
-                "open_issues": 78,
+                "last_commit": "2026-10-21T07:32:35Z",
+                "open_issues": 76,
                 "owner": "TNT-Likely",
                 "repo": "PanWatch",
-                "stars": 2141,
+                "stars": 2181,
                 "topics": [
                   "a-share",
                   "agent",
@@ -1186,8 +1186,8 @@
                 "id": 1132473569,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-20T08:11:01Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-21T02:44:07Z",
+                "open_issues": 26,
                 "owner": "YoungCan-Wang",
                 "repo": "WyckoffTradingAgent",
                 "stars": 753,
@@ -1301,7 +1301,7 @@
                 "open_issues": 6,
                 "owner": "LuckyOne7777",
                 "repo": "LLM-Trading-Lab",
-                "stars": 7506,
+                "stars": 7507,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:36:12.802Z"
@@ -1322,7 +1322,7 @@
                 "open_issues": 14,
                 "owner": "wquguru",
                 "repo": "nof0",
-                "stars": 2753,
+                "stars": 2754,
                 "topics": [
                   "agentic-ai",
                   "ai",
@@ -1415,7 +1415,7 @@
                 "open_issues": 1,
                 "owner": "ryanfrigo",
                 "repo": "kalshi-ai-trading-bot",
-                "stars": 622,
+                "stars": 624,
                 "topics": [
                   "ai-trading",
                   "automated-trading",
@@ -1504,7 +1504,7 @@
                 "open_issues": 125,
                 "owner": "Open-Finance-Lab",
                 "repo": "AgenticTrading",
-                "stars": 780,
+                "stars": 781,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:36:12.802Z"
@@ -1555,8 +1555,8 @@
                 "id": 970406219,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-21T07:10:19Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-21T00:50:27Z",
+                "open_issues": 7,
                 "owner": "vals-ai",
                 "repo": "finance-agent",
                 "stars": 168,
@@ -1605,7 +1605,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-13T15:37:52Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "HammerGPT",
                 "repo": "Hyper-Alpha-Arena",
                 "stars": 1186,
@@ -1637,7 +1637,7 @@
                 "open_issues": 5,
                 "owner": "Miasyster",
                 "repo": "QuantGPT",
-                "stars": 490,
+                "stars": 489,
                 "topics": [
                   "a-shares",
                   "ai-agent",
@@ -1702,7 +1702,7 @@
                 "open_issues": 5,
                 "owner": "6551Team",
                 "repo": "opennews-mcp",
-                "stars": 2420,
+                "stars": 2421,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:36:12.802Z"
@@ -1817,7 +1817,7 @@
                 "open_issues": 7,
                 "owner": "saidsurucu",
                 "repo": "borsa-mcp",
-                "stars": 656,
+                "stars": 657,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:36:12.802Z"
@@ -1885,8 +1885,8 @@
                 "id": 1132602643,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T05:03:28Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-20T19:26:50Z",
+                "open_issues": 3,
                 "owner": "BlockRunAI",
                 "repo": "blockrun-mcp",
                 "stars": 391,
@@ -1948,7 +1948,7 @@
                 "open_issues": 13,
                 "owner": "stefanoamorelli",
                 "repo": "sec-edgar-mcp",
-                "stars": 373,
+                "stars": 374,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -2008,7 +2008,7 @@
                 "open_issues": 9,
                 "owner": "zwldarren",
                 "repo": "akshare-one-mcp",
-                "stars": 236,
+                "stars": 237,
                 "topics": [
                   "akshare",
                   "mcp",
@@ -2030,8 +2030,8 @@
                 "id": 1191114524,
                 "language": "C#",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-20T09:22:44Z",
-                "open_issues": 34,
+                "last_commit": "2026-10-21T05:44:40Z",
+                "open_issues": 31,
                 "owner": "daniel3303",
                 "repo": "Equibles",
                 "stars": 236,
@@ -2171,7 +2171,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-27T18:27:42Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "LLMQuant",
                 "repo": "data-mcp",
                 "stars": 83,
@@ -2249,10 +2249,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-12T10:40:50Z",
-                "open_issues": 24,
+                "open_issues": 26,
                 "owner": "alpacahq",
                 "repo": "alpaca-mcp-server",
-                "stars": 1027,
+                "stars": 1028,
                 "topics": [
                   "ai-trading",
                   "algorithmic-trading",
@@ -2284,7 +2284,7 @@
                 "open_issues": 31,
                 "owner": "ariadng",
                 "repo": "metatrader-mcp-server",
-                "stars": 832,
+                "stars": 831,
                 "topics": [
                   "ai",
                   "finance",
@@ -2311,10 +2311,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-13T13:30:00Z",
-                "open_issues": 9,
+                "open_issues": 12,
                 "owner": "krakenfx",
                 "repo": "kraken-cli",
-                "stars": 768,
+                "stars": 769,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:36:12.802Z"
@@ -2335,7 +2335,7 @@
                 "open_issues": 4,
                 "owner": "okx",
                 "repo": "agent-trade-kit",
-                "stars": 481,
+                "stars": 483,
                 "topics": [
                   "ai-agent",
                   "crypto-trading",
@@ -2476,7 +2476,7 @@
                 "open_issues": 8,
                 "owner": "mnemox-ai",
                 "repo": "tradememory-protocol",
-                "stars": 1431,
+                "stars": 1430,
                 "topics": [
                   "agentic-trading",
                   "ai-agents",
@@ -2575,7 +2575,7 @@
                 "open_issues": 7,
                 "owner": "guangxiangdebizi",
                 "repo": "TradingAgents-MCPmode",
-                "stars": 338,
+                "stars": 339,
                 "topics": [
                   "agent",
                   "finance",
@@ -2629,11 +2629,11 @@
                 "id": 1034736943,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-16T21:41:54Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-20T18:10:15Z",
+                "open_issues": 11,
                 "owner": "atilaahmettaner",
                 "repo": "tradingview-mcp",
-                "stars": 5086,
+                "stars": 5091,
                 "topics": [
                   "claude-desktop",
                   "cryptocurrency",
@@ -2707,7 +2707,7 @@
                 "id": 1169648406,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-19T17:09:24Z",
+                "last_commit": "2026-10-20T11:49:03Z",
                 "open_issues": 2,
                 "owner": "agent-next",
                 "repo": "polymarket-paper-trader",
@@ -2800,11 +2800,11 @@
                 "id": 1203777920,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-10-20T07:45:55Z",
+                "last_commit": "2026-10-21T08:37:26Z",
                 "open_issues": 36,
                 "owner": "xbtlin",
                 "repo": "ai-berkshire",
-                "stars": 16810,
+                "stars": 16818,
                 "topics": [
                   "ai",
                   "ai-agent",
@@ -2846,13 +2846,34 @@
                 "open_issues": 0,
                 "owner": "himself65",
                 "repo": "finance-skills",
-                "stars": 3428,
+                "stars": 3432,
                 "topics": [
                   "agent-skills",
                   "claude-code",
                   "skills",
                   "trading"
                 ]
+              },
+              "first_seen": "2026-08-28T16:36:12.802Z"
+            },
+            {
+              "node_type": "item",
+              "title": "tradermonty/claude-trading-skills",
+              "description": "Large Skill pack for US-equity investors, covering market analysis, breadth, regimes, screening methods, options, Alpaca portfolio management, and research workflows. (→ pairs with: alpacahq/alpaca-mcp-server.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+                "homepage": "https://tradermonty.github.io/claude-trading-skills/",
+                "id": 1079356098,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-20T22:59:21Z",
+                "open_issues": 47,
+                "owner": "tradermonty",
+                "repo": "claude-trading-skills",
+                "stars": 3116,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:36:12.802Z"
             },
@@ -2872,34 +2893,13 @@
                 "open_issues": 5,
                 "owner": "RKiding",
                 "repo": "Awesome-finance-skills",
-                "stars": 3074,
+                "stars": 3077,
                 "topics": [
                   "agent",
                   "agent-skills",
                   "finances",
                   "fintech"
                 ]
-              },
-              "first_seen": "2026-08-28T16:36:12.802Z"
-            },
-            {
-              "node_type": "item",
-              "title": "tradermonty/claude-trading-skills",
-              "description": "Large Skill pack for US-equity investors, covering market analysis, breadth, regimes, screening methods, options, Alpaca portfolio management, and research workflows. (→ pairs with: alpacahq/alpaca-mcp-server.)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-                "homepage": "https://tradermonty.github.io/claude-trading-skills/",
-                "id": 1079356098,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-20T01:36:37Z",
-                "open_issues": 45,
-                "owner": "tradermonty",
-                "repo": "claude-trading-skills",
-                "stars": 3059,
-                "topics": []
               },
               "first_seen": "2026-08-28T16:36:12.802Z"
             },
@@ -2915,7 +2915,7 @@
                 "id": 1053779296,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-17T08:37:28Z",
+                "last_commit": "2026-10-20T09:28:36Z",
                 "open_issues": 0,
                 "owner": "quant-sentiment-ai",
                 "repo": "claude-equity-research",
@@ -2951,7 +2951,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-24T23:33:00Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "monarchjuno",
                 "repo": "tradingcodex",
                 "stars": 374,
@@ -2985,7 +2985,7 @@
                 "open_issues": 4,
                 "owner": "JoelLewis",
                 "repo": "finance_skills",
-                "stars": 214,
+                "stars": 215,
                 "topics": [
                   "claude",
                   "claude-code",
@@ -3017,11 +3017,11 @@
                 "id": 1179404554,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-16T10:00:53Z",
-                "open_issues": 42,
+                "last_commit": "2026-10-21T03:41:26Z",
+                "open_issues": 40,
                 "owner": "GMGNAI",
                 "repo": "gmgn-skills",
-                "stars": 622,
+                "stars": 623,
                 "topics": [
                   "ai-agents",
                   "api",
@@ -3130,7 +3130,7 @@
                 "open_issues": 1,
                 "owner": "MobiusQuant",
                 "repo": "OpenMobius-skill",
-                "stars": 707,
+                "stars": 712,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:36:12.802Z"
@@ -3223,7 +3223,7 @@
                 "id": 1128829385,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-19T14:38:14Z",
+                "last_commit": "2026-10-21T07:45:11Z",
                 "open_issues": 5,
                 "owner": "koreal6803",
                 "repo": "finlab-ai",
@@ -3244,11 +3244,11 @@
                 "id": 1163396607,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-16T02:50:20Z",
+                "last_commit": "2026-10-21T03:56:04Z",
                 "open_issues": 21,
                 "owner": "staskh",
                 "repo": "trading_skills",
-                "stars": 379,
+                "stars": 384,
                 "topics": [
                   "ai-trading",
                   "claude",
@@ -3310,7 +3310,7 @@
                 "open_issues": 77,
                 "owner": "AI4Finance-Foundation",
                 "repo": "FinRobot",
-                "stars": 8253,
+                "stars": 8258,
                 "topics": [
                   "aiagent",
                   "chatgpt",
@@ -3340,7 +3340,7 @@
                 "open_issues": 6,
                 "owner": "LuckyOne7777",
                 "repo": "LLM-Trading-Lab",
-                "stars": 7506,
+                "stars": 7507,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:36:12.802Z"
@@ -3369,10 +3369,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-18T02:37:56Z",
-            "open_issues": 3257,
+            "open_issues": 3335,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 96641,
+            "stars": 96686,
             "topics": [
               "ai",
               "mcp"
@@ -3392,11 +3392,11 @@
             "id": 43425480,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-20T01:16:12Z",
-            "open_issues": 140,
+            "last_commit": "2026-10-21T01:17:29Z",
+            "open_issues": 148,
             "owner": "wilsonfreitas",
             "repo": "awesome-quant",
-            "stars": 30217,
+            "stars": 30230,
             "topics": [
               "algorithmic-trading-engine",
               "algorithmic-trading-library",
@@ -3435,10 +3435,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-08T03:00:12Z",
-            "open_issues": 80,
+            "open_issues": 82,
             "owner": "georgezouq",
             "repo": "awesome-ai-in-finance",
-            "stars": 6677,
+            "stars": 6679,
             "topics": [
               "analysis",
               "awesome",
@@ -3469,10 +3469,10 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-10-18T16:08:29Z",
-            "open_issues": 34,
+            "open_issues": 39,
             "owner": "wangzhe3224",
             "repo": "awesome-systematic-trading",
-            "stars": 5307,
+            "stars": 5310,
             "topics": [
               "algorithmic-trading",
               "alpha",
@@ -3539,7 +3539,7 @@
             "open_issues": 0,
             "owner": "DataArcTech",
             "repo": "Awesome-FinLLMs",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-28T16:36:12.802Z"
@@ -3549,7 +3549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T09:23:30.225Z",
+    "last_updated": "2026-10-21T09:20:07.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution.",
@@ -3561,7 +3561,7 @@
       "open_issues": 30,
       "owner": "LLMQuant",
       "repo": "awesome-trading-agents",
-      "stars": 903,
+      "stars": 905,
       "topics": [
         "agent-skills",
         "agentic-ai",
